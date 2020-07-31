@@ -54,6 +54,9 @@ Based on this idea, you can make many cool projects like -
 
 4. Play/pause video when the person is looking away from screen
 
+5. Play on-screen instruments using gesture
+
+
 
 And many more...
 
